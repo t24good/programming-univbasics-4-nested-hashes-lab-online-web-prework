@@ -123,6 +123,8 @@ def adding_to_dennis
           :known_for => "Unix",
           :languages => ["C"]
         }
+ 		}    
         programmer_hash[:languages] = "Assembly"
-    }
+        
+  programmer_hash
 end
